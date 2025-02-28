@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TransferService.dir/src/Server_main.cpp.o CMakeFiles/TransferService.dir/src/server.cpp.o -o TransferService  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 
