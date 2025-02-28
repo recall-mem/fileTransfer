@@ -1,4 +1,0 @@
-/home/recall/Desktop/Github_pro/FileTransfer/build/CMakeFiles/traf.dir
-/home/recall/Desktop/Github_pro/FileTransfer/build/CMakeFiles/TransferService.dir
-/home/recall/Desktop/Github_pro/FileTransfer/build/CMakeFiles/edit_cache.dir
-/home/recall/Desktop/Github_pro/FileTransfer/build/CMakeFiles/rebuild_cache.dir
